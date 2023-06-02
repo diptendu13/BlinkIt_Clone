@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+:root{
+    --color-dark-green : rgb(12, 131, 31); 
+    --color-green : rgb(49, 134, 22);
+    --color-lightest-green : #ecffec;
+    --color-28-black : rgb(28, 28, 28);
+    --color-31-black : rgb(31, 31, 31);
+    --color-54-black : rgb(54, 54, 54);
+    --color-black : rgb(0, 0, 0);
+    --color-white : rgb(255, 255, 255);
+    --fw-100 : 100;
+    --fw-300 : 300;
+    --fw-400 : 400;
+    --fw-500 : 500;
+    --fw-700 : 700;
+    --fw-900 : 900;
+    --font-family: 'Roboto', sans-serif;
+}
